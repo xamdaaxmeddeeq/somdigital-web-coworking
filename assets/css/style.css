@@ -301,8 +301,12 @@ body {
   padding: 50px;
   background-color: #FBFBFB;
 }
+#pp{
+  font-size: 3rem;
+}
 .contact-us .contat-det {
   text-align: center;
+  /* font-size: 18px; */
 }
 .contact-us .contat-det i {
   font-size: 32px;
